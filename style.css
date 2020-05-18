@@ -2,11 +2,13 @@
   color: #e6e6e6;
 }
 #contact{
-  position: absolute;
-  right:100px;
+  position:absolute;
+  right:10%;
   left:auto;
   top:100px;
+  float: right;
 }
+
 
 #i{
   color:#0000b3;
