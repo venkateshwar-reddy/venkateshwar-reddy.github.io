@@ -2,8 +2,8 @@
   color: #e6e6e6;
 }
 #contact{
-  position:fixed;
-  right:10%;
+  position:absolute;
+  right:80px;
   left:auto;
   top:100px;
   float: right;
