@@ -3,7 +3,8 @@
 }
 #contact{
   position: absolute;
-  right:120px;
+  right:100px;
+  left:auto;
   top:100px;
 }
 
